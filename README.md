@@ -1,3 +1,3 @@
-## Aplicação GoBarber do BotCamp rockesetat
+## Aplicação GoBarber do BotCamp rockeseat
 
 https://rocketseat.com.br/bootcamp
